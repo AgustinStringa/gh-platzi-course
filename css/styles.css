@@ -2,6 +2,11 @@ body {
   color: deeppink;
   font-family: Arial, Helvetica, sans-serif;
 }
+.site-header{
+  background-color: tomato;
+  padding: 2rem;
+  color: navajowhite;
+}
 article {
   background-color: lightgray;
   padding: 2rem;
