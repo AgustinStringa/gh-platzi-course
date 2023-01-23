@@ -6,3 +6,12 @@ footer {
   background-color: darksalmon;
   padding: 3rem;
 }
+ul {
+  list-style: none;
+}
+a{
+  color: inherit;
+}
+ul li a {
+  color: rgb(61, 61, 61);
+}
